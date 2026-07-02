@@ -1,5 +1,7 @@
 # godmode
 
+**This is the foundation of luna cli**
+
 Local terminal AI agent with shell, file, and directory tools. Runs on your machine — you provide a Google Gemini API key.
 
 ## Features
